@@ -1,2 +1,2 @@
 # project-tools
-This is a PAT test for odile9999
+This is a PAT test for OdileCoeur-Joly
