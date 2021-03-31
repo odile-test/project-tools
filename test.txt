@@ -3,4 +3,4 @@
 3 lignes
 4 lignes + close RM
 5 new name
-6 test FixRM
+6 test FixRM number 2
