@@ -1,2 +1,2 @@
 # project-tools
-This is a PAT test for
+Fake repo to test interfaces with Redmine, GitHub and TestLink.
